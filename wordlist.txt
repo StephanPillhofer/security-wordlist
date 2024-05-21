@@ -1,8 +1,45 @@
-Cybercrime
-Darknet
-Datenleak
-Hacker
-Hackerangriff
-Malware
-Ransomware
-Schadsoftware
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "IT-SSEC Stichworte",
+            "description": "Liste typischer deutscher IT-SEC Stichwörter",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/StephanPillhofer/security-wordlist/main/wordlist.txt",
+            "entries": [
+                {
+                    "value": "Cybercrime",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Darknet",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Datenleak",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Hacker",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Hackerangriff",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Malware",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Ransomware",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Schadsoftware",
+                    "category": "IT-SEC"
+                }
+            ]
+        }
+    ]
+}
