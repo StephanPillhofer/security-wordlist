@@ -1,0 +1,25 @@
+{
+    "version": 1,
+    "data": [
+        {
+            "name": "Redhat",
+            "description": "Liste von IT-SEC Stichwörtern, bezogen auf Redhat Produkte",
+            "usage": 4,
+            "link": "https://raw.githubusercontent.com/StephanPillhofer/security-wordlist/main/redhat.json",
+            "entries": [
+                {
+                    "value": "Keycloak",
+                    "category": "IT-SEC-REDHAT"
+                },
+                {
+                    "value": "Sign-On",
+                    "category": "IT-SEC-REDHAT"
+                },
+                {
+                    "value": "OpenShift",
+                    "category": "IT-SEC-REDHAT"
+                }
+            ]
+        }
+    ]
+}
