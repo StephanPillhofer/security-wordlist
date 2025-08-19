@@ -2,7 +2,7 @@
     "version": 1,
     "data": [
         {
-            "name": "IT-SSEC Stichworte",
+            "name": "IT-SEC Stichworte",
             "description": "Liste typischer deutscher IT-SEC Stichwörter",
             "usage": 4,
             "link": "https://raw.githubusercontent.com/StephanPillhofer/security-wordlist/main/wordlist.json",
@@ -33,6 +33,138 @@
                 },
                 {
                     "value": "Schadsoftware",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Phishing",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "DDoS-Angriff",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Zero-Day-Exploit",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Botnetz",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Trojaner",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Spyware",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Keylogger",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Social Engineering",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Identitätsdiebstahl",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Backdoor",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Exploit",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Rootkit",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Brute-Force-Angriff",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "SQL-Injection",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Cross-Site-Scripting",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Man-in-the-Middle",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Session Hijacking",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Drive-by-Download",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Wiper-Malware",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Adware",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Credential Stuffing",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Formjacking",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Cryptojacking",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Datendiebstahl",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Insider-Angriff",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Hacktivismus",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Cyber-Erpressung",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Finanzbetrug",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "CEO-Fraud",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Fake-Shops",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Deepfake-Betrug",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "SIM-Swapping",
+                    "category": "IT-SEC"
+                },
+                {
+                    "value": "Supply-Chain-Angriff",
                     "category": "IT-SEC"
                 }
             ]
